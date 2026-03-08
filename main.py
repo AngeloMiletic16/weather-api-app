@@ -44,7 +44,7 @@ class WeatherApp(QWidget):
         self.description_label.setObjectName("description_label")
 
         self.setStyleSheet("""
-            Qlavel, QPushButton{
+            QLabel, QPushButton{
                 font-family: calibri;
             }
             QLabel#city_label{
