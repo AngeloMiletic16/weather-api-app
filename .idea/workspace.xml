@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13ce4a88-8ce9-4677-9848-591673c469c1" name="Changes" comment="Initial project setup">
+    <list default="true" id="13ce4a88-8ce9-4677-9848-591673c469c1" name="Changes" comment="added PyQt5 interface for weather application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -72,11 +72,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1772971379508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="added PyQt5 interface for weather application">
+      <option name="closed" value="true" />
+      <created>1772990971397</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1772990971397</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial project setup" />
+    <MESSAGE value="added PyQt5 interface for weather application" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PyQt5 interface for weather application" />
   </component>
 </project>
